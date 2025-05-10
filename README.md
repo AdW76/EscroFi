@@ -36,6 +36,6 @@ EscroFi is a smart-contract-based payment solution for freelancers and clients, 
 
 ## Contributing
 We welcome contributions! Please open issues or pull requests for improvements, bug fixes, or new features.
-
+ 
 ## License
 MIT 
