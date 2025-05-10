@@ -40,4 +40,4 @@
 
 ### GET `/api/reputation/:user`
 - Get a user's reputation score.
-- **Response:** `{ user, score }` 
+- **Response:** `{ user, score }`  
