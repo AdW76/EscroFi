@@ -16,4 +16,4 @@ contract Reputation {
     function getReputation(address user) external view returns (uint256) {
         return reputation[user];
     }
-} 
+}  
