@@ -8,4 +8,4 @@ console.log("Deploying EscroFiEscrow contract (stub)...");
 // const EscroFiEscrow = await ethers.getContractFactory("EscroFiEscrow");
 // const escrow = await EscroFiEscrow.deploy(freelancer, arbitrator, { value: ethers.utils.parseEther("1.0") });
 // await escrow.deployed();
-// console.log("EscroFiEscrow deployed to:", escrow.address); 
+// console.log("EscroFiEscrow deployed to:", escrow.address);    
