@@ -47,4 +47,4 @@ contract EscroFiEscrow {
         payable(winner).transfer(amount);
         emit Resolved(winner);
     }
-} 
+}  
